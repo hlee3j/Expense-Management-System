@@ -19,3 +19,6 @@ export in formats. excel, html, csv, json
 more features to update list:
 monthly statement. 
 compare with last month or last year
+
+Use:
+Java, Spring boot, Docker, PostgreSQL(might use mysql)
